@@ -21,3 +21,6 @@
 	- 定时作业
 - 数据库管理工具 `简单的MySQL界面工具`
 - 系统设置
+
+![image](https://github.com/allan869/ops_platform/blob/master/1.png)
+![image](https://github.com/allan869/ops_platform/blob/master/2.png)
